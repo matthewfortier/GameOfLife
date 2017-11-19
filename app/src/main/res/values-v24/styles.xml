@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyNumberPickerTheme" parent="@android:style/Widget.Material.NumberPicker">
+        <item name="colorControlNormal ">#01579b</item>
+        <item name="android:background">#64b5f6</item>
+    </style>
+</resources>
